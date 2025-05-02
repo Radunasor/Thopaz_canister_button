@@ -4,7 +4,7 @@ Thopaz+ Canister lock button
 **Attention:** This design is **NOT** for practical application. It is intended for **lab test purposes only**.
 
 ## 3D Printing Setup
-- **Layer Height:** 0.2mm (Standard Profile)
+- **Layer Height:** 0.2mm (strength Profile)
 - **Support Type:** Hybrid Tree Support
 - **Filament Material:** PETG
 
